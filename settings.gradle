@@ -1,3 +1,4 @@
 include ':base'
 include ':app'
+include ':netease-music-api'
 rootProject.name = "BlueSkyPlayer"
